@@ -1,5 +1,4 @@
 <div align="center">
-
 ```
 <h1 align="center">Syed Noman Uddin</h1>
 <h3 align="center">AI & Data Science Engineer 🤖 | Pakistan 🇵🇰</h3>
@@ -21,6 +20,7 @@
 ---
 
 ## 👨‍💻 About Me
+
 ```python
 import datetime
 
@@ -79,7 +79,7 @@ class SyedNomanUddin:
 
 me = SyedNomanUddin()
 me.say_hi()
-```python
+```
 ## 🛠️ Tech Stack & Skills
 
 ### 🤖 AI / Data Science
@@ -138,7 +138,7 @@ Got a project idea? Want to collaborate? Just want to say hi? Hit me up! 👇
 
 [![Twitter](https://img.shields.io/badge/DM_on_Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://x.com/Noumansed)
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/syed-n-581b51271)
-[![Gmail](https://img.shields.io/badge/Mail_Me-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:syednomanuddin0L@gmail.com)
+[![Gmail](https://img.shields.io/badge/Mail_Me-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:syednomanuddin0@gmail.com)
 
 
 <br/>
