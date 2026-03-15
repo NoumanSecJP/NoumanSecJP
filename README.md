@@ -26,6 +26,9 @@
 - Proxy Chains
 - OPSEC
 - Network Security
+- ## 📊 GitHub Stats
+
+![Noman's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight)
 
 
 ## 📫 Connect with Me
