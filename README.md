@@ -1,16 +1,32 @@
 ## Hi there 👋
 
-<!--
-**NoumanSecJP/NoumanSecJP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi 👋 I'm Syed Noman Uddin
 
-Here are some ideas to get you started:
+🎓 BS Artificial Intelligence Student  
+🔐 Passionate about Cybersecurity  
+💻 Learning Python, Java, and Web Development  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills
+- Python
+- Java
+- HTML
+- CSS
+- JavaScript
+- Flask
+
+## 🛠 Tools
+- Linux
+- Git
+- GitHub
+- VS Code
+
+## 🔐 Cybersecurity Knowledge
+- Penetration Testing
+- CVSS
+- Proxy Chains
+- OPSEC
+- Network Security
+
+
+## 📫 Connect with Me
+LinkedIn: your link
