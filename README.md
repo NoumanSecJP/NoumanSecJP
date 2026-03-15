@@ -17,8 +17,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/noumi._.priv/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/syed-n-581b51271)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/syednoman.uddin.18)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@N-AcademyOfficial)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NoumanSecJP)
+
 
 <img src="https://komarev.com/ghpvc/?username=NoumanSecJP&label=Profile+Views&color=00d9ff&style=flat" alt="Profile Views" />
 
@@ -27,26 +26,63 @@
 ---
 
 ## 👨‍💻 About Me
+import datetime
 
-```python
 class SyedNomanUddin:
+    
     def __init__(self):
         self.name        = "Syed Noman Uddin"
-        self.role        = "AI / Data Science Engineer"
+        self.alias       = "NoumanSecJP"
+        self.role        = "AI Enthusiast 🤖"
         self.location    = "Pakistan 🇵🇰"
-        self.languages   = ["Python", "Java", "JavaScript"]
-        self.interests   = ["Machine Learning", "Web Security", "AI Agents"]
-        self.currently   = "Building cool stuff with AI 🤖"
-        self.fun_fact    = "I break things to understand them 🔐"
+        self.age         = datetime.date.today().year - 2005  # update birth year
+        
+        self.languages   = ["Python 🐍", "Java ☕", "JavaScript ⚡"]
+        
+        self.stack = {
+            "AI / ML"     : ["Python", "Flask", "Claude AI"],
+            "Web"         : ["HTML", "CSS", "JavaScript", "Node.js"],
+            "Security"    : ["Kali Linux", "Pentesting"],
+            "Tools"       : ["Git", "GitHub", "VS Code"],
+            "OS"          : ["Kali Linux", "Windows"],
+        }
+        
+        self.interests   = ["Machine Learning", "Web Security", "AI Agents", "Automation"]
+        self.currently   = "🔭 Exploring AI Agents & LLMs"
+        self.learning    = "📚 Deep Learning & Ethical Hacking"
+        self.looking_for = "🤝 Open Source Collaborations"
+        self.fun_fact    = "💡 I break things to understand them — then rebuild them better"
+        self.motto       = "Code. Break. Learn. Repeat. 🔁"
+
+    def get_status(self):
+        hour = datetime.datetime.now().hour
+        if 5 <= hour < 12:
+            return "☀️  Good morning! Probably debugging with coffee..."
+        elif 12 <= hour < 17:
+            return "⚡ Afternoon grind — neck deep in code"
+        elif 17 <= hour < 21:
+            return "🌆 Evening mode — reading docs & experimenting"
+        else:
+            return "🌙 Late night hacker mode activated 🔐"
 
     def say_hi(self):
-        print("Thanks for visiting my profile! Let's build something awesome 🚀")
+        print("=" * 55)
+        print(f"  👋 Hey! I'm {self.name}")
+        print(f"  🚀 {self.role}")
+        print(f"  📍 {self.location}")
+        print("=" * 55)
+        print(f"  {self.currently}")
+        print(f"  {self.learning}")
+        print(f"  {self.looking_for}")
+        print("-" * 55)
+        print(f"  Status → {self.get_status()}")
+        print(f"  Motto  → {self.motto}")
+        print("=" * 55)
+        print("  Thanks for visiting! Let's build something legendary 🔥")
+        print("=" * 55)
 
 me = SyedNomanUddin()
 me.say_hi()
-```
-
----
 
 ## 🛠️ Tech Stack & Skills
 
