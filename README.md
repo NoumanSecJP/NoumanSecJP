@@ -21,6 +21,7 @@
 ---
 
 ## 👨‍💻 About Me
+```python
 import datetime
 
 class SyedNomanUddin:
@@ -78,7 +79,7 @@ class SyedNomanUddin:
 
 me = SyedNomanUddin()
 me.say_hi()
-
+```python
 ## 🛠️ Tech Stack & Skills
 
 ### 🤖 AI / Data Science
